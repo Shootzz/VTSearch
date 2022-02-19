@@ -8,7 +8,7 @@ Find an IP, domain name or hash. Right click and select "Search in VirusTotal", 
 
 
 # Installation
-Download the files put in a folder then, open your chrome browser go to extensions and clik "load unpacked" choose the folder. You can also use it on other browsers that support chrome extension.
+Download the folder then, open your chrome browser go to extensions and click "load unpacked" choose the folder. You can also use it on other browsers that support chrome extension.
 
 #
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/burakcan)
