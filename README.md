@@ -11,4 +11,6 @@ Find an IP, domain name or hash. Right click and select "Search in VirusTotal", 
 Download the folder then, open your chrome browser go to extensions and click "load unpacked" choose the folder. You can also use it on other browsers that support chrome extension.
 
 #
+If you are pleased with this work, you can buy me a coffee :)
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/burakcan)
